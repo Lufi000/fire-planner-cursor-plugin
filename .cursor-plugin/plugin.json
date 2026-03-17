@@ -1,10 +1,11 @@
 {
   "name": "fire-planner",
   "version": "1.0.0",
-  "description": "FIRE 路径规划顾问：通过对话发现「领域 × 杠杆」方向，规划财务自由路径。适用于开始规划、FIRE、副业、创业、职业规划等场景。",
+  "description": "FIRE 路径规划顾问：用对话帮你梳理「领域 × 杠杆」方向，算出 FIRE 数字，给出可执行路径与首周/首月行动。适合想财务自由、做副业、创业或做职业规划的人。",
   "author": {
     "name": "Lufi"
   },
+  "logo": "assets/logo.svg",
   "keywords": [
     "FIRE",
     "财务自由",
