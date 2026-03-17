@@ -36,6 +36,10 @@ Agent 会按 skill 引导你完成画像 → 方向推荐 → 路径规划，并
 2. **Team / Enterprise 团队仓库**  
    - 在 Cursor Dashboard → Settings → Plugins → Team Marketplaces 中添加本仓库 URL，团队成员即可从 Marketplace 面板安装。
 
+## 不用 Cursor，只用 Claude？
+
+见 **`claude/`** 目录：内有可直接粘贴到 Claude「自定义说明」或第一条消息的 **FIRE 规划顾问系统说明**，以及可选上传的画像/规划模板。详见 [claude/README.md](claude/README.md)。
+
 ## 许可
 
 MIT（若仓库中未单独声明，可自行添加 LICENSE 文件）。
